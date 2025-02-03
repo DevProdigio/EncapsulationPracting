@@ -1,0 +1,15 @@
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\bin\Debug\net9.0\Conta Bancaria.exe
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\bin\Debug\net9.0\Conta Bancaria.deps.json
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\bin\Debug\net9.0\Conta Bancaria.runtimeconfig.json
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\bin\Debug\net9.0\Conta Bancaria.dll
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\bin\Debug\net9.0\Conta Bancaria.pdb
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\obj\Debug\net9.0\Conta Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\obj\Debug\net9.0\Conta Bancaria.AssemblyInfoInputs.cache
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\obj\Debug\net9.0\Conta Bancaria.AssemblyInfo.cs
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\obj\Debug\net9.0\Conta Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\obj\Debug\net9.0\Conta Bancaria.sourcelink.json
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\obj\Debug\net9.0\Conta Bancaria.dll
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\obj\Debug\net9.0\refint\Conta Bancaria.dll
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\obj\Debug\net9.0\Conta Bancaria.pdb
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\obj\Debug\net9.0\Conta Bancaria.genruntimeconfig.cache
+C:\Users\fimde\Documents\Estudando C#\OOP\Encapsulamento\Conta Bancaria\Conta Bancaria\obj\Debug\net9.0\ref\Conta Bancaria.dll
